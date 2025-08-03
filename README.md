@@ -24,5 +24,5 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&label=https://t.me/uylag">
 </div>
