@@ -24,7 +24,7 @@
 ###
 
 <div align="left">
-  <a href="https://t.me/uylag>
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white">
+  <a href="https://t.me/uylag" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
 </div>
