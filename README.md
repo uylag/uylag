@@ -25,6 +25,9 @@
 
 <div align="left">
   <a href="https://t.me/uylag" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram Badge">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram Badge" />
+  </a>
+  <a href="mailto:uylags@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&label=email%20me" alt="Gmail Badge" />
   </a>
 </div>
