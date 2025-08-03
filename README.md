@@ -3,7 +3,7 @@
 ## Most used tools and languages:
 
 <div align="right">
-  <img src="https://tenor.com/view/lelouch-lamperouge-geass-code-geass-anime-demand-gif-14444768" />
+  <img src="https://github.com/uylag/uylag/blob/main/github1.gif" />
 </div>
 
 <div align="left">
