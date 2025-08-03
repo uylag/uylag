@@ -3,10 +3,13 @@
 ## Most used tools and languages:
 
 ### 
+
 <div align="right">
   <img height="150" src="https://github.com/uylag/uylag/blob/main/github1.gif" />
 </div>
+
 ###
+
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
