@@ -2,25 +2,24 @@
 
 <h2>Most used tools and languages:</h2>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="30" alt="python logo" />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="jupyter logo" />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cmake/cmake-original.svg" height="30" alt="cmake logo" />
-  </div>
+<table>
+  <tr>
+    <td align="left" valign="top">
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="30" />
+      <img width="12" />
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/jupyter/jupyter-original-wordmark.svg" height="30" />
+      <img width="12" />
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" height="30" />
+      <img width="12" />
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cmake/cmake-original.svg" height="30" />
+    </td>
+    <td align="right" valign="middle">
+      <img height="150" src="https://github.com/uylag/uylag/blob/main/github1.gif" />
+    </td>
+  </tr>
+</table>
 
-  <div>
-    <img height="150" src="https://github.com/uylag/uylag/blob/main/github1.gif" />
-  </div>
-
-</div>
-
-<div align="left" style="margin-top: 10px;">
+<div align="left">
   <a href="https://t.me/uylag" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram Badge" />
   </a>
