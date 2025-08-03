@@ -1,5 +1,5 @@
-# Starter in AI/ML.
-___
+<h1 align="center">Starter in AI/ML.</h1>
+
 ## Most used tools and languages:
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="30" alt="python logo"  />
